@@ -1,5 +1,5 @@
 # VK wall importer
-The littlescript helps to the site owner replicate an actual changes from VKontakte group to his site by RSS feed, 
+The little script for helps to the group owner replicate an actual changes in the group from VK to his site by RSS feed, 
 simple integration or parse the JSON from VK into web page.
 
 Requrements:
